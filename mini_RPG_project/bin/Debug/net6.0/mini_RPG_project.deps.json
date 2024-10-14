@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "mini_RPG_project/1.0.0": {
+        "runtime": {
+          "mini_RPG_project.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "mini_RPG_project/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

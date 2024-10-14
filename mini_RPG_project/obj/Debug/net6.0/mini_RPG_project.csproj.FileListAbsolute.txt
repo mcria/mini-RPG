@@ -1,0 +1,90 @@
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.AssemblyReference.cache
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfoInputs.cache
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfo.cs
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.exe
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.deps.json
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.runtimeconfig.json
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.dll
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.dll
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\refint\mini_RPG_project.dll
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.genruntimeconfig.cache
+C:\Users\marie\OneDrive - Hogeschool Rotterdam\Semester 2\Mini project\mini_RPG_project\obj\Debug\net6.0\ref\mini_RPG_project.dll
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.AssemblyReference.cache
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfoInputs.cache
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfo.cs
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.dll
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\refint\mini_RPG_project.dll
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.exe
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.deps.json
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.runtimeconfig.json
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.dll
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.genruntimeconfig.cache
+C:\Users\mbraa\Development_Y1\projectB\_mini_project\mini_RPG_project\obj\Debug\net6.0\ref\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.exe
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.deps.json
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.runtimeconfig.json
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.AssemblyReference.cache
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfoInputs.cache
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfo.cs
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\refint\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.genruntimeconfig.cache
+C:\Users\soufi\OneDrive\Documents\GitHub\mini_RPG_project\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\ref\mini_RPG_project.dll
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.exe
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.deps.json
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.runtimeconfig.json
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.dll
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.AssemblyReference.cache
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfoInputs.cache
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfo.cs
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.dll
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\refint\mini_RPG_project.dll
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.genruntimeconfig.cache
+C:\Users\iimma\source\repos\git(hub)\mini_RPG_project\obj\Debug\net6.0\ref\mini_RPG_project.dll
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.exe
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.deps.json
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.runtimeconfig.json
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.dll
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.AssemblyReference.cache
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfoInputs.cache
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfo.cs
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.dll
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\refint\mini_RPG_project.dll
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.genruntimeconfig.cache
+C:\Users\JiaJun\Documents\GitHub\mini_RPG_project\obj\Debug\net6.0\ref\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.exe
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.deps.json
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.runtimeconfig.json
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\bin\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.AssemblyReference.cache
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfoInputs.cache
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.AssemblyInfo.cs
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.csproj.CoreCompileInputs.cache
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\refint\mini_RPG_project.dll
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.pdb
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\mini_RPG_project.genruntimeconfig.cache
+C:\Users\soufi\OneDrive\Git\mini_RPG_project\mini_RPG_project\obj\Debug\net6.0\ref\mini_RPG_project.dll

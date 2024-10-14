@@ -1,0 +1,5 @@
+C:\Users\iimma\source\repos\code farmer opdr8\code farmer opdr8\obj\Debug\net6.0\code farmer opdr8.csproj.AssemblyReference.cache
+C:\Users\iimma\source\repos\code farmer opdr8\code farmer opdr8\obj\Debug\net6.0\code farmer opdr8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\iimma\source\repos\code farmer opdr8\code farmer opdr8\obj\Debug\net6.0\code farmer opdr8.AssemblyInfoInputs.cache
+C:\Users\iimma\source\repos\code farmer opdr8\code farmer opdr8\obj\Debug\net6.0\code farmer opdr8.AssemblyInfo.cs
+C:\Users\iimma\source\repos\code farmer opdr8\code farmer opdr8\obj\Debug\net6.0\code farmer opdr8.csproj.CoreCompileInputs.cache
